@@ -1,0 +1,48 @@
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\bin\Debug\c_Database_Programming.exe.config
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\bin\Debug\cookbook.mdf
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\bin\Debug\cookbook_log.ldf
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\bin\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\bin\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.csprojResolveAssemblyReference.cache
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.FormMain.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.Properties.Resources.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.csproj.GenerateResource.Cache
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming\c_Database_Programming\obj\Debug\c_Database_Programming.DataBase.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.exe.config
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\bin\Debug\cookbook.mdf
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\bin\Debug\cookbook_log.ldf
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.csprojResolveAssemblyReference.cache
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.DataBase.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.FormMain.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.Properties.Resources.resources
+D:\1programowanie\2_C_#\projekty_youtube\BAZY_DANYCH\c_Database_Programming — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.csproj.GenerateResource.Cache
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\bin\Debug\c_Database_Programming.exe.config
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\bin\Debug\cookbook.mdf
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\bin\Debug\cookbook_log.ldf
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\bin\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\bin\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.csprojResolveAssemblyReference.cache
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.DataBase.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.FormMain.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.Properties.Resources.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations\c_Database_Programming\obj\Debug\c_Database_Programming.csproj.GenerateResource.Cache
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\bin\Debug\cookbook.mdf
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\bin\Debug\cookbook_log.ldf
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.exe.config
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\bin\Debug\c_Database_Programming.pdb
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.csprojResolveAssemblyReference.cache
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.DataBase.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.FormMain.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.Properties.Resources.resources
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.csproj.GenerateResource.Cache
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.exe
+D:\1programowanie\2_C_#\1MOJE\Restaurant_database_operations — kopia\c_Database_Programming\obj\Debug\c_Database_Programming.pdb
